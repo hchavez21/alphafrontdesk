@@ -1,0 +1,5 @@
+{
+  "name": "AlphaFrontDesk",
+  "description": "An interactive log for front desk associates to manage guest requests, complaints, and shift changes seamlessly.",
+  "requestFramePermissions": []
+}
